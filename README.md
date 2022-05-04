@@ -15,3 +15,6 @@ Sinh viên thực hiện:
 + Thư viện subprocess
 + Ngôn ngữ Python
 + Môi trường thử nghiệm VMware Workstation Pro
+
+# CTU-13 Dataset
+Link: https://drive.google.com/file/d/1UArOIpEvUXyKi4faRldepV5nYZzuhxWJ/view?usp=sharing
