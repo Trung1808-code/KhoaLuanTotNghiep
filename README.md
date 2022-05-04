@@ -6,7 +6,7 @@ Giảng viên hướng dẫn: ThS. Trần Đắc Tốt
 Sinh viên thực hiện: 
 + Lê Thành Trung - MSSV: 2033180129
 + Thái Hoàng Cường – MSSV: 2033181005
-+ Nguyễn Hoàng Duy – 2033180056
++ Nguyễn Hoàng Duy – MSSV: 2033180056
 
 # Công cụ, thư viện, ngôn ngữ và môi trường cài đặt
 + Công cụ Tcpdump
