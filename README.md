@@ -18,4 +18,5 @@ Sinh viên thực hiện:
 
 # CTU-13 Dataset
 Link 1: https://drive.google.com/file/d/1UArOIpEvUXyKi4faRldepV5nYZzuhxWJ/view?usp=sharing (13 kịch bản)
+
 Link 2: https://drive.google.com/file/d/1Fcn7_vvGOlsj1sI1nWw3A7dPitxYygC2/view?usp=sharing (CTU_13.csv)
