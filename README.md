@@ -14,6 +14,7 @@ Sinh viên thực hiện:
 + Python sys module
 + Thư viện subprocess
 + Ngôn ngữ Python
++ Google Colab
 + Môi trường thử nghiệm VMware Workstation Pro
 
 # CTU-13 Dataset
